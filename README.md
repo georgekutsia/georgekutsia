@@ -5,15 +5,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=georgekutsia.georgekutsia&"  />
-</div>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
 
 <p align="left">Some skills learned after long years of hard work and feedback:<br><br>- 🤝 There is always a way to find an agreement. (ok, like 99% of the time).               <br>- 📚 Learn the best ways to do my job, even if they differ from mine. <br>- 🧑‍💻 10 minutes of concentrated work is better than 1 hour of distracted work.<br>-👨‍👩‍👦‍👦  Spending time with family helps me know why I do the things I do.<br>- 🦸 Don't show all your skills at first.<br><br>I like to practice all kinds of sports, regardless of whether I'm good at them or not...some of them(whose emoticons I could find) are: 🥊-🥋-🏀-🏐-🏓-🎿-🎳<br><br>I keep my body and mind busy, among many other things, with: 🎯-🎲-🎮-🃏-♟️-🎨-🎶-🎸-🎹-🎥-📚</p>
 
