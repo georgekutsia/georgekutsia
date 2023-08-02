@@ -1,6 +1,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=4000&color=5DCDF7&center=true&width=435&lines=Welcome!+Now+you+are+part+of+this;How+vexingly+quick+daft+zebras+jump" alt="Typing SVG" /></a>
 <div align="center">
   <img height="150" src="https://i.gifer.com/origin/11/1127ac4c9835726ce6811ca198978762.gif"/>
+  <img height="150" src="https://i.imgur.com/50NA7vr.gif"/>
 </div>
 
 ###
