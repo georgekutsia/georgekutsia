@@ -1,5 +1,11 @@
-<h2 style="color: rgb(239, 14, 14); font-family: 'Poiret One', cursive;font-family: 'Signika', sans-serif;" align="left">Welcome! Enjoy yourself</h2>
+<h2 style="color: #F7207EFF; font-family: 'Poiret One', cursive;font-family: 'Signika', sans-serif;" align="left">Welcome! Enjoy yourself</h2>
+<a href="mailto:adrianapiccolo00@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<h2 align="center" style="color: #F7207EFF; font-family: 'Poiret One', cursive;font-family: 'Signika', sans-serif;">
 
+Adriana Piccolo
+
+</h2>
 ###
 
 <div align="center">
