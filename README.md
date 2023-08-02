@@ -8,7 +8,7 @@
 
 ###
 
-<img align="right" height="150" src="https://res.cloudinary.com/dfrda73uc/image/upload/v1687523229/donGions%20imgs/WhatsApp-Video-2023-06-23-at-13.17.33_wjpe6x.gif"  />
+<img align="right" height="150" src="https://i.imgur.com/50NA7vr.gif"  />
 
 ###
 
