@@ -1,5 +1,29 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=100&color=5DCDF7&center=true&width=435&lines=Hey!+welcome" alt="Typing SVG" /></a>
+<div align="center">
+  <img height="150" src="https://i.imgur.com/50NA7vr.gif"  />
+</div>
 
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=georgekutsia.georgekutsia&"  />
+</div>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<p align="left">Some skills learned after long years of hard work and feedback:<br><br>- 🤝 There is always a way to find an agreement. (ok, like 99% of the time).               <br>- 📚 Learn the best ways to do my job, even if they differ from mine. <br>- 🧑‍💻 10 minutes of concentrated work is better than 1 hour of distracted work.<br>-👨‍👩‍👦‍👦  Spending time with family helps me know why I do the things I do.<br>- 🦸 Don't show all your skills at first.<br><br>I like to practice all kinds of sports, regardless of whether I'm good at them or not...some of them(whose emoticons I could find) are: 🥊-🥋-🏀-🏐-🏓-🎿-🎳<br><br>I keep my body and mind busy, among many other things, with: 🎯-🎲-🎮-🃏-♟️-🎨-🎶-🎸-🎹-🎥-📚</p>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=georgekutsia&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=georgekutsia&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
