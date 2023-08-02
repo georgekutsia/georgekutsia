@@ -1,5 +1,4 @@
-<h2 style="color: #F7207EFF; font-family: 'Poiret One', cursive;font-family: 'Signika', sans-serif;" align="left">Welcome! Enjoy yourself</h2>
-<h2 style="color: #F7207EFF; font-family: 'Poiret One', cursive;font-family: 'Signika', sans-serif;" align="left">http://www.sonidosmp3gratis.com/download.php?id=18889&sonido=fiesta%20cornetas</h2>
+<h2 style="color: rgb(239, 14, 14); font-family: 'Poiret One', cursive;font-family: 'Signika', sans-serif;" align="left">Welcome! Enjoy yourself</h2>
 
 ###
 
