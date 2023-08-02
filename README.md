@@ -1,4 +1,4 @@
-<h2 align="left">Welcome! Enjoy yourself</h2>
+<h2 style="color: #F7207EFF; font-family: 'Poiret One', cursive;font-family: 'Signika', sans-serif;" align="left">Welcome! Enjoy yourself</h2>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<div align="left" style:"background-color:red">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
