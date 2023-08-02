@@ -30,7 +30,7 @@
 
 ###
 <div align="center">
-  <img height="150" src="https://giphy.com/gifs/guavajuice-im-on-fire-getting-an-idea-me-when-i-get-cmTIdwZ9p5JtEcUxp2"/>
+  <img height="150" src="[https://giphy.com/gifs/guavajuice-im-on-fire-getting-an-idea-me-when-i-get-cmTIdwZ9p5JtEcUxp2](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTcwdDRpcDMzeWJwZ203M2pyanpvOWRlc21xdzUyam1ic2l2cHdybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cmTIdwZ9p5JtEcUxp2/giphy.gif)"/>
 </div>
 
 ###
