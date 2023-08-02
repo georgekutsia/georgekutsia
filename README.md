@@ -1,5 +1,5 @@
 <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=4000&color=F78D3B&center=true&width=435&lines=Welcome!+Now+you+are+part+of+this;How+vexingly+quick+daft+zebras+jump" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=4000&color=F78D3B&center=true&width=435&lines=Welcome!+Now+you+are+part+of+this;Hope+you+like+what+you+see" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">
@@ -30,7 +30,7 @@
 
 ###
 <div align="center">
-  <img height="150" src="[https://giphy.com/gifs/guavajuice-im-on-fire-getting-an-idea-me-when-i-get-cmTIdwZ9p5JtEcUxp2](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTcwdDRpcDMzeWJwZ203M2pyanpvOWRlc21xdzUyam1ic2l2cHdybCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cmTIdwZ9p5JtEcUxp2/giphy.gif)"/>
+  <img height="150" src="https://media.tenor.com/QdAU5GjF5wsAAAAC/brain-explosion.gif/>
 </div>
 
 ###
